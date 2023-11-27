@@ -42,10 +42,10 @@ Link : [Price-Wise](https://price-wise-production-c2af.up.railway.app/)
 
 3. **Contributing**
 If you'd like to contribute to Price-Wise,please follow these steps:
--Fork the repository.
-- 1.Create a new branch: git checkout -b feature/your-feature-name
-- 2.Make your changes and commit them: git commit -m 'Add new feature'
-- 3.Push to the branch: git push origin feature/your-feature-name
+ -Fork the repository.
+- 1.Create a new branch: git checkout `-b feature/your-feature-name`
+- 2.Make your changes and commit them: `git commit -m 'Add new feature'`
+- 3.Push to the branch: `git push origin feature/your-feature-name`
 - 4.Submit a pull request.
 
 4. **Acknowledgements**
@@ -53,8 +53,9 @@ Thank you to Railway for providing a seamless deployment experience.
 Icons provided by Feather Icons.
 
 5. **Contact**
-For any questions or inquiries, please contact me regarding this 
-Name: Shivansh Sharma
-Email: shivanshsharma1507@gmail.com
-GitHub: shivansh1507
+For any questions or inquiries, please contact me regarding this on : 
+
+> Shivansh Sharma
+> Email: [shivanshsharma1507@gmail.com](mailto:shivanshsharma1507@gmail.com)
+> GitHub: [shivansh1507](https://github.com/shivansh1507)
 
