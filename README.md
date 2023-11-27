@@ -5,6 +5,7 @@
 Price Wise is a web application that simplifies the task of tracking and comparing prices for products on Amazon. With a straightforward interface, users can effortlessly input an Amazon product link, and Price Wise will swiftly scrape the web to provide them with the current price, highest price, and lowest price available for that item. Whether you're looking for the best deal on your favorite products or want to monitor price trends over time, Price Wise is your go-to tool for smart shopping decisions.
 
 Link : [Price-Wise](https://price-wise-production-c2af.up.railway.app/)
+![Project Screenshot](https://raw.githubusercontent.com/shivansh1507/Price-Wise/master/pricewise.png)
 
 ## Features
 
@@ -22,7 +23,7 @@ Link : [Price-Wise](https://price-wise-production-c2af.up.railway.app/)
 
 - **Backend:**
   - Node.js
-  - MongoDB (or mention your database of choice)
+  - MongoDB 
   - Railway (deployment platform)
 
 ## Getting Started
