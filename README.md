@@ -55,7 +55,7 @@ Icons provided by Feather Icons.
 5. **Contact**
 For any questions or inquiries, please contact me regarding this on : 
 
-> Shivansh Sharma
-> Email: [shivanshsharma1507@gmail.com](mailto:shivanshsharma1507@gmail.com)
-> GitHub: [shivansh1507](https://github.com/shivansh1507)
+- > Name: Shivansh Sharma
+- > Email: [shivanshsharma1507@gmail.com](mailto:shivanshsharma1507@gmail.com)
+- > GitHub: [shivansh1507](https://github.com/shivansh1507)
 
